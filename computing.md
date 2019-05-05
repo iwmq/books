@@ -30,17 +30,17 @@ Price: free
 
 URL: http://www.linuxcommand.org/
 
-# Architecture
+# Database
 
-## Introduction to Computer Organization: ARM Assembly Language Using the Raspberry Pi
-*Introduction to Computer Organization: ARM Assembly Language Using the Raspberry Pi* by **Robert G. Plantz** takes a step-by-step teaching on ARM architecture using the very popular and inexpensive plateform, Raspberry Pi. In this book, you can learn the underlying mechanism of instructions by writing some code.
+## Foundations of Databases
+*Foundations of Databases* is focused on mathematics of databases.
 
-Author: Robert G. Plantz
+Author: Addison Wesley
 
 Language: English
 
-Format: Online HTML
+Format: PDF
 
 Price: free
 
-URL: http://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html
+URL: http:/wwebdam.inria.fr/Alicce
