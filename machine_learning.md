@@ -23,3 +23,29 @@ Format: Online HTML
 Price: free
 
 URL: https://www.learnopencv.com/neural-networks-a-30000-feet-view-for-beginners/
+
+## Deep Learning (Adaptive Computation and Machine Learning series)
+*Deep Learning* by **Ian Goodfellow**, **Yoshua Bengio** and **Aaron Courville** is a online book focusing on priciples of deep learning.
+
+Author: Ian Goodfellow, Yoshua Bengio and Aaron Courville
+
+Language: English
+
+Format: Online HTML, hardcover book
+
+Price: free for online HTML
+
+URL: http://www.deeplearningbook.org/
+
+## Dive into Deep Learning
+*Dive into Deep Learning* by Amazone applied scientists **Aston Zhang**, among others is a online book focusing on step by step studying of deep learning.
+
+Author: Aston Zhang, Zack C. Lipton, Mu Li and Alex J. Smola
+
+Language: English, Chinese
+
+Format: Online HTML, PDF
+
+Price: free for online HTML
+
+URL: https://d2l.ai/
